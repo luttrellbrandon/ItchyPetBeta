@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="-kn5tQgenmIzhT8OoOiqDA">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["9862324124604702347","4025678066305007454"],"/g/1tj92c2h",null,[282625201,3488047041],null,null,null,null,null,null,null,null,null,null,"gcid:emergency_veterinarian_service"],0,0,null,null,0,null,0,0]]]],null,["en_US"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"Zf36aoLeLbSRwbkP1sWEmQQ",null,null,null,[[[1164.616499823812,-80.6920255,28.2625201],[0,0,0],null,13.10000038146973],null,0,[["0x88de0389dad41e8b:0x37de14df5230ff5e","Animal Specialty \u0026 Emergency Hospital, 5775 Schenck Ave, Rockledge, FL 32955, United States",[28.2625201,-80.6920255],"4025678066305007454"],"Animal Specialty \u0026 Emergency Hospital",["5775 Schenck Ave","Rockledge, FL 32955","United States"],3.900000095367432,"575 reviews",null,null,"+1 321-752-7600",null,null,null,["/url?q=http://www.ashemergency.com/\u0026opi=79508299\u0026sa=U\u0026ved=2ahUKEwjCpKfoxIyYAxW0SDABHdYiIUMQ61goEHoECAAQFA\u0026usg=AOvVaw31lpNM9mMV0DCc64VyKATD","ashemergency.com",null,"2ahUKEwjCpKfoxIyYAxW0SDABHdYiIUMQ61goEHoECAAQFA"],"Emergency veterinarian service","5775 Schenck Ave, Rockledge, FL 32955, United States",null,null,null,null,null,null,null,null,null,null,null,null,null,"ChIJix7U2okD3ogRXv8wUt8U3jc",null,null,"2ahUKEwjCpKfoxIyYAxW0SDABHdYiIUMQ8BcoAHoECAAQAQ",null,null,["tel:+13217527600"],null,null,null,1,["2ahUKEwjCpKfoxIyYAxW0SDABHdYiIUMQqtMBKAp6BAgAEAw",["76WX7875+25"],["7875+25 Rockledge, Florida, USA"],3],[[["Monday",1,[2026,11,16],[["Open 24 hours",[[],[]]]],0,1],["Tuesday",2,[2026,11,17],[["Open 24 hours",[[],[]]]],0,1],["Wednesday",3,[2026,11,18],[["Open 24 hours",[[],[]]]],0,1],["Thursday",4,[2026,11,19],[["Open 24 hours",[[],[]]]],0,1],["Friday",5,[2026,11,20],[["Open 24 hours",[[],[]]]],0,1],["Saturday",6,[2026,11,21],[["Open 24 hours",[[],[]]]],0,1],["Sunday",7,[2026,11,22],[["Open 24 hours",[[],[]]]],0,1]],[["Monday",1,[2026,11,16],[["Open 24 hours",[[],[]]]],0,1],0,1,null,["Open 24 hours",[[0,13,[null,[4281040703,4285388172]]]]],["Open 24 hours",[[0,13,[null,[4281040703,4285388172]]]]],null,[24],["Open",[[0,4,[null,[4281040703,4285388172]]]]]],1,null,null,null,1]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/66/13d/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/66/13d/init_embed.js" nonce="-kn5tQgenmIzhT8OoOiqDA" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en_US&amp;experimentation=allowed&amp;callback=onApiLoad" nonce="-kn5tQgenmIzhT8OoOiqDA" async defer></script>
+  </body>
+</html>

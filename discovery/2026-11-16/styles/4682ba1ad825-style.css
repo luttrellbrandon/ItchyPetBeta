@@ -1,0 +1,7 @@
+/* Remove spacing around iFrame */
+.page-template-template-pet-insurance-info .container-wrap{padding-bottom:0}
+.page-template-template-pet-insurance-info .row{padding-top:0;padding-bottom:0}
+/* Add space around page content */
+.page-template-template-pet-insurance-info .content-row{padding:32px}
+/* iFrame */
+.pet-insurance-info-iframe{display:block;width:1px;min-width:100%;padding:0;border:0;margin:0;overflow:hidden}

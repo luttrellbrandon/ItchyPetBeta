@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="WcK44JugwK1u0RF6G3CZLQQAFmv9cUonokTq0wro">
+
+    <title>Pet Health Insurance Info</title>
+
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3378477-18"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('set', {
+            'custom_map': {
+                'dimension1': 'source'
+            }
+        });
+
+        gtag('config', 'UA-3378477-18', {
+            'source': 'webdvm'
+        });
+    </script>
+
+    
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css">
+    <link rel="stylesheet" href="/css/app.css?version=0.7">
+    <link rel="stylesheet" href="/css/webdvm.css">
+
+    <!-- WebDVM Styles -->
+    <style>
+    
+    </style>
+
+        
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=initRecaptcha&render=explicit" async defer></script>
+
+</head>
+<body>
+
+    <div class="lifelearn-pet-insurance-content">
+        
+<div class="splash-image">
+    <div class="splash-content">
+        <h1 class="text-primary">Is insurance right for your pet</h1>
+        <h3>We believe that the best decision is an informed decision</h3>
+    </div>
+</div>
+
+<div class="white-content">
+    <div class="alert alert-info pii-alert-dismissible" role="alert">
+        <div>
+            <i class="fas fa-info-circle"></i>
+            Clicking on hyperlinks below for additional information will open a new browser window in PetInsuranceInfo.com
+        </div>
+        <button class="btn btn-close-alert" aria-label="close">
+            <i class="fas fa-times"></i>
+        </button>
+    </div>
+
+    <h2 class="text-primary">Why Choose Pet Insurance?</h2>
+    <p>PetInsuranceInfo.com isn’t just another comparison site. We know that insurance is a complicated topic at the best of times. LifeLearn at its core is an education company and we know lots about pet insurance, so we hope to make it easy to understand all the terms and different types of plans.</p>
+
+    <div class ="row">
+        <div class ="homepage-navigation-column col-sm-12 col-md-6 ">
+            <a href="https://petinsuranceinfo.com/pet-health-insurance" class="homepage-navigation-header header-secondary " target="_blank">
+                <h3>Pet Health Insurance</h3>
+            </a>
+            <a href="https://petinsuranceinfo.com/pet-health-insurance/basics" class="homepage-navigation-content" target="_blank">
+                <h3>The Basics</h3>
+                <h4>What is pet insurance, terminology and FAQs</h4>
+                <span class="chevron-right fas fa-chevron-right"></span>
+            </a>
+            <a href="https://petinsuranceinfo.com/pet-health-insurance/why-buy" class="homepage-navigation-content" target="_blank">
+                <h3>The Arguments For and Against Pet Insurance</h3>
+                <h4>Reasons to consider pet health insurance</h4>
+                <span class="chevron-right fas fa-chevron-right"></span>
+            </a>
+            <a href="https://petinsuranceinfo.com/pet-health-insurance/breed-guide" class="homepage-navigation-content" target="_blank">
+                <h3>Breed Impact</h3>
+                <h4>How breed impacts insurance coverage and costs</h4>
+                <span class="chevron-right fas fa-chevron-right"></span>
+            </a>
+            <div class ="bottom-border header-secondary "></div>
+        </div><!-- .homepage-navigation-column -->
+
+        <div class ="homepage-navigation-column  col-sm-12 col-md-6">
+            <a href="https://petinsuranceinfo.com/plans-and-policies" class="homepage-navigation-header header-primary" target="_blank">
+                <h3>Plans & Policies</h3>
+            </a>
+            <a href="https://petinsuranceinfo.com/plans-and-policies/coverage" class="homepage-navigation-content" target="_blank">
+                <h3>Coverage</h3>
+                <h4>Types of coverage offered by insurance companies</h4>
+                <span class="chevron-right fas fa-chevron-right"></span>
+            </a>
+            <a href="https://petinsuranceinfo.com/plans-and-policies/choosing-a-plan" class="homepage-navigation-content" target="_blank">
+                <h3>Choosing a Plan</h3>
+                <h4>What to consider when comparing plans</h4>
+                <span class="chevron-right fas fa-chevron-right"></span>
+            </a>
+            <a href="https://petinsuranceinfo.com/plans-and-policies/how-it-works" class="homepage-navigation-content" target="_blank">
+                <h3>How it Works</h3>
+                <h4>What to expect when buying pet insurance</h4>
+                <span class="chevron-right fas fa-chevron-right"></span>
+            </a>
+
+            <div class ="bottom-border header-primary"></div>
+        </div><!-- .homepage-navigation-column -->
+    </div><!-- .row -->
+</div><!-- .white-content -->
+
+<div class="content quotes-page">
+    <div id="privacy_policy_blocker" class = "privacy-popup">
+    <div id="privacy_content" class="privacy-content">
+        <h3>Cookies and Privacy Notice</h3>
+        <p>
+            This website or its third-party tools use cookies, which are necessary for its functioning and required to achieve the purposes illustrated in the cookie policy. If you want to learn more or withdraw your consent to all or some of the cookies, please refer to the cookie policy.
+        </p>
+        <p>
+            Our quote comparison tool also shares your personal information with the third-party pet insurance providers that you choose to receive a quote from.  The information is shared at the point that you request quotes and it is only shared with the pet insurance providers that you have chosen at the second stage of the process.  If you do not wish for your personal information to be shared with any pet insurance providers please click the link below to return to the informational section of our website.
+        </p>
+
+        <div class="row">
+            <div class="col-6">
+                <button id="accept_privacy_policy_btn"  class="btn btn-block btn-primary">Continue</button>
+            </div>
+            <div class="col-6">
+                <a id="lifelearn_privacy_reject_link" href = "https://petinsuranceinfo.com">Go Back</a>
+            </div>
+
+        </div>
+    </div>
+    <div id="privacy_overlay" class="overlay"></div>
+</div>
+    <form method="POST" id = "owner_pet_details"  action="/owner_pet_details">
+        <input type="hidden" name="_token" value="WcK44JugwK1u0RF6G3CZLQQAFmv9cUonokTq0wro">        <div id = "pet-information" >
+            <div class ="patterned-background-content">
+    <div class="step-one">
+        <h3>You & Your Pet</h3>
+
+        <div class="row">
+            <div class="col-12">
+                <label for="pet_name">Pet's Name  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <input required class="form-control" id="pet_name" name="pet_name" maxlength="50" aria-describedby="pet_name_error">
+                <div class="invalid-feedback" id="pet_name_error">You must provide a name.</div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 col-sm-6 col-pet-species-field">
+                <label for="pet_species">Species  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <select placeholder="Species" required class="form-control" name="pet_species" id="pet_species"  aria-describedby="pet_species_error">
+                    <option value = "Dog">Dog</option>
+                    <option value = "Cat">Cat</option>
+                </select>
+                <div class="invalid-feedback" id="pet_species_error">You must select a species.</div>
+            </div>
+
+            <div class="col-12 col-sm-6 col-pet-breed-field">
+                <label for="pet_breed">Breed  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <select placeholder="Choose Breed" required class="form-control" name="pet_breed" id = "pet_breed" style="width: 100%" aria-describedby="pet_breed_error"></select>
+                <div class="invalid-feedback" id="pet_breed_error">You must select a breed.</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-6 col-pet-gender-field">
+                <label for="pet_gender">Gender  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <select placeholder="Gender" required class="form-control" name="pet_gender" id="pet_gender" aria-describedby="pet_gender_error">
+                    <option value = "Male">Male</option>
+                    <option value = "Female">Female</option>
+                    <option value = "Neutered Male">Neutered Male</option>
+                    <option value = "Spayed Female">Spayed Female</option>
+                </select>
+                <div class="invalid-feedback" id="pet_gender_error">You must select a gender.</div>
+            </div>
+            <div class="col-12 col-sm-6 col-pet-weight-field">
+                <fieldset>
+                    <legend id="pet_weight_label">
+                        Weight <small> - integer only</small>
+                        <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button>
+                    </legend>
+                    <div class="input-group">
+                        <input type="number" oninput="this.value=(parseInt(this.value))" name="pet_weight" min="0" aria-labelledby="pet_weight_label" id="pet_weight" class="form-control" required>
+                        <label for="pet_weight_unit" class="sr-only">Weight unit of measurement</label>
+                        <select name="pet_weight_unit" id="pet_weight_unit" class="custom-select" required>
+                            <option value="lb" selected>lb</option>
+                            <option value="kg">kg</option>
+                        </select>
+                    </div>
+                </fieldset>
+                <div class="invalid-feedback" id="pet_weight_error">You must enter a valid weight.</div>
+            </div>
+		</div>
+		<div class = "row">
+            <div class="col-12">
+                <label for="pet_age">Age  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                
+                <select class="form-control" id="pet_age" name="pet_age" aria-describedby="pet_age_error">
+                    <option value="0-8 weeks">0-8 weeks</option>
+                    <option value="8 weeks - 5 months">8 weeks - 5 months</option>
+                    <option value="6 - 11 months">6 - 11 months</option>
+                    <option value="1">1 year</option>
+                    <option value="2">2 years</option>
+                    <option value="3">3 years</option>
+                    <option value="4">4 years</option>
+                    <option value="5">5 years</option>
+                    <option value="6">6 years</option>
+                    <option value="7">7 years</option>
+                    <option value="8">8 years</option>
+                    <option value="9">9 years</option>
+                    <option value="10">10 years</option>
+                    <option value="11">11 years</option>
+                    <option value="12">12 years</option>
+                    <option value="13">13 years</option>
+                    <option value="14">14 years</option>
+                    <option value="15">15 years</option>
+                    <option value="16">16 years</option>
+                    <option value="17">17 years</option>
+                    <option value="18">18 years</option>
+                    <option value="19">19 years</option>
+                    <option value="20">20+ years</option>
+                </select>
+                <div class="invalid-feedback" id="pet_age_error">You must enter an age between 0 and 20.</div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                <label for="owner_first_name">First name  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <input required class="form-control" id = "owner_first_name" name = "owner_first_name" aria-describedby="owner_first_name_error">
+                <div class="invalid-feedback" id="owner_first_name_error">
+                    You must provide a first name.
+                </div>
+            </div>
+            <div required class="col-6">
+                <label for="owner_last_name">Last name  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <input required class="form-control" id = "owner_last_name" name = "owner_last_name" aria-describedby="owner_last_name_error">
+                <div class="invalid-feedback" id="owner_last_name_error">
+                    You must provide a last name.
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <label for="owner_email">Email  <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <input required  class="form-control" id = "owner_email" name = "owner_email" aria-describedby="owner_email_error">
+                <div class="invalid-feedback" id="owner_email_error">
+                    You must provide a valid email.
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <label for="owner_zip">Zip <button aria-hidden="true" class = "js-simple-tooltip" data-simpletooltip-text="required field">*<span class="sr-only">required field</span></button></label><br>
+                <input required aria-describedby="owner_zip_description"  class="form-control" id = "owner_zip" name = "owner_zip" aria-labelledby="owner_zip_error" maxlength="5">
+                <div class="form-text"><small id="owner_zip_description">PO box zip codes may not yield results from some providers.</small></div>
+                <div class="invalid-feedback" id="owner_zip_error">
+                    You must provide a valid postal code or zip.
+                </div>
+            </div>
+        </div>
+
+        <div id="legacy_privacy_consent" class = "row">
+            <div class="col-12" style="margin-top:10px;">
+                <fieldset>
+                    <legend>I would like to receive quotes, special offers, and news updates by email from insurance providers, and understand that I can withdraw my consent at any time by using the links given by insurance providers.</legend>
+                    <input type="radio" id="yes_consent" value="1" name="consent">&nbsp;<label for="yes_consent">yes</label>&nbsp;
+                    <input type="radio" id="no_consent" value="0" name="consent" checked="true">&nbsp;<label for="no_consent">no</label>
+                </fieldset>
+            </div>
+        </div>
+
+        <div class="progress-btns-container">
+            <div class="row justify-content-center row-progress-btns">
+                <div class="col-auto">
+                    <button type="button" class="btn right-action-button clickable-link progress_next_btn">Select Providers</button>
+                </div>
+            </div>
+        </div>
+
+        
+        <p class="webdvm-disclaimer-text">The information on this pet insurance page is provided by <span class="webdvm-site-name">PetInsuranceInfo.com</span> for educational purposes and <span class="webdvm-site-name">PetInsuranceInfo.com</span> does not receive any financial or any other form of compensation should you choose to purchase a pet insurance policy for your pet. Pet Insurance Info, Inc. is a licensed insurance agency in all 50 States and the District of Columbia – Licenses. In California doing business as Dog and Cat Insurance Solutions – License # 0M65277. In New York doing business as Dog and Cat Insurance Services – License # BR-1533819. Pet Insurance Info, Inc. does earn a fee/commission on any insurance policy purchased as a result of this website.</p>
+
+        
+        <div class="captcha-validation-errors"></div>
+
+        <input type="hidden" name="owner_country" id="owner_country" >
+        <input type="hidden" name="owner_state" id="owner_state" >
+        <input type="hidden" name="pet_date_of_birth" id="pet_date_of_birth" >
+        <input type="hidden" id="pet_owner_id" name="pet_owner_id" val/>
+        <input type="hidden" id="spayed_or_neutered" name="spayed_or_neutered" value="0"/>
+        <input type="hidden" id="microchip" name="microchip" value="0"/>
+        <input type="hidden" id="origin_domain" name="origin_domain" value="default">
+        <input type="hidden" id="source_platform" name="source_platform" value="webdvm">
+        <input type="hidden" id="practice_id" name="practice_id" value="0">
+        <input type="hidden" id="user_id" name="user_id" value="0">
+        <input type="hidden" id="dvm_provider_list" value="aspca|figo|hartville|healthy_paws|pets_best">
+        <div class="recaptcha-badge-holder">
+            <div id="form-recaptch"></div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+<button class="sr-only" type="submit">Providers</button>
+
+<script>
+
+    //Implementation of reCaptcha v2 Invisible
+
+    var initRecaptcha = function(){
+
+        if ( document.getElementById("form-recaptch") ) {
+
+            recaptcha = grecaptcha.render("form-recaptch", {
+                'sitekey' : '6Lda8psUAAAAAEAQAjqgE33quOXIEuiINP0PHO00',
+                'theme'    : 'light',
+                'badge'    : 'bottomleft',
+                'size'     : 'invisible',
+                'callback' : recaptchaFormsAjax
+            });
+        }
+    };
+
+    var recaptchaFormsAjax = function(){
+
+        var container = $("#form-recaptch").parents("form");
+
+        $.ajax({
+            url: "/recaptcha", // Validate the recaptcha challenge
+            method: "POST",
+            dataType:'json',
+            data: container.serialize(),
+            beforeSend: function(xhr) {
+                ll_script.transition("quote_loading_results");
+            },
+            success: function(responseObj){
+
+                // Show error message - from AjaxController.recaptcha
+                if ( responseObj.result == "success" ) {
+
+                    //ensure no challenge if user uses Go Back button
+                    ll_script.captcha_passed = true;
+
+                    // Now OK to submit form
+                    var form = $('#owner_pet_details');
+                    form.submit();
+
+                    //continue without waiting for save result
+                    ll_script.initSelectProvider();
+
+                } else if( responseObj.result == "notlegit" ) {
+
+                    //recaptcha detected bot attempt
+                    container.find('.captcha-validation-errors').html(responseObj.info).stop(0,0).slideDown(500,function(){
+                        $(this).css('height','auto');
+                    });
+
+                } else {
+                    // Show error message - from AjaxController.recaptcha
+                    console.log("recaptcha validation error responseObj.msg = " + responseObj.msg)
+                    container.find('.validation-errors').html(responseObj.msg).stop(0,0).slideDown(500,function(){
+                        $(this).css('height','auto');
+                    });
+                }
+            }
+        });
+    }
+
+</script>
+        </div>
+    </form>
+
+    <div id = "select-provider" style = "display:none;">
+        <div class="white-content">
+            <h2 class="h1-block-mobile" >Select Providers </h2>
+                <h3 style="margin-top: 15px;">Based on the parameters you provided, please select from the following companies</h3>
+                <h3 id = "select_compare_text_2" class ="mobile-only h2-block-mobile" >Please select the providers you would like to receive quotes from.</h3>
+    
+    <div class="row select-providers-error" id="too_many_providers">
+        <div class="col-auto"><span aria-hidden="true" class="icon-info"></span> <span class="sr-only">error</span></div>
+        <div class="col-auto">
+            <h3>Exceeded Maximum Number of Providers</h3>
+            <p>Please only select 3 providers at a time to compare.</p>
+        </div>
+    </div>
+
+    <div class="row select-providers-error" id="too_few_providers">
+        <div class="col-auto"><span aria-hidden="true" class="icon-info"></span> <span class="sr-only">error</span></div>
+        <div class="col-auto">
+            <h3>You must select at least one provider to receive a free quote.</h3>
+        </div>
+    </div>
+
+    <div class="row select-providers-error" id="no_providers_error">
+        <div class="col-auto"><span aria-hidden="true" class="icon-info"></span> <span class="sr-only">error</span></div>
+        <div class="col-auto">
+                            <h3>No providers available for the selected breed.</h3>
+                    </div>
+    </div>
+    
+    <div id="available_providers" class="row available-providers">
+                    <div tabindex="0" aria-role="button" id="hartville_provider_select"
+    data-provider="hartville"
+    data-id="1"
+    data-provider-name="Hartville"
+    data-provider-country="US"
+    data-provider-location-required="0"
+    data-provider-underwriter-questions="0"
+    data-owner-zip=""
+    class = "no-outline col-6 col-sm-4 col-md-3"
+    name="select_provider">
+
+    <div class = "provider-logo">
+        <img  src ="/images/provider_logos/hartville.png" alt="Hartville">
+    </div>
+    </div>    <div tabindex="0" aria-role="button" id="pets_best_provider_select"
+    data-provider="pets_best"
+    data-id="3"
+    data-provider-name="Pets Best"
+    data-provider-country="US"
+    data-provider-location-required="0"
+    data-provider-underwriter-questions="0"
+    data-owner-zip=""
+    class = "no-outline col-6 col-sm-4 col-md-3"
+    name="select_provider">
+
+    <div class = "provider-logo">
+        <img  src ="/images/provider_logos/pets_best.png" alt="Pets Best">
+    </div>
+    </div>    <div tabindex="0" aria-role="button" id="aspca_provider_select"
+    data-provider="aspca"
+    data-id="4"
+    data-provider-name="ASPCA"
+    data-provider-country="US"
+    data-provider-location-required="0"
+    data-provider-underwriter-questions="0"
+    data-owner-zip=""
+    class = "no-outline col-6 col-sm-4 col-md-3"
+    name="select_provider">
+
+    <div class = "provider-logo">
+        <img  src ="/images/provider_logos/aspca.png" alt="ASPCA">
+    </div>
+    </div>    <div tabindex="0" aria-role="button" id="healthy_paws_provider_select"
+    data-provider="healthy_paws"
+    data-id="5"
+    data-provider-name="Healthy Paws"
+    data-provider-country="US"
+    data-provider-location-required="0"
+    data-provider-underwriter-questions="0"
+    data-owner-zip=""
+    class = "no-outline col-6 col-sm-4 col-md-3"
+    name="select_provider">
+
+    <div class = "provider-logo">
+        <img  src ="/images/provider_logos/healthy_paws.png" alt="Healthy Paws">
+    </div>
+    </div>    <div tabindex="0" aria-role="button" id="figo_provider_select"
+    data-provider="figo"
+    data-id="7"
+    data-provider-name="Figo"
+    data-provider-country="US"
+    data-provider-location-required="0"
+    data-provider-underwriter-questions="0"
+    data-owner-zip=""
+    class = "no-outline col-6 col-sm-4 col-md-3"
+    name="select_provider">
+
+    <div class = "provider-logo">
+        <img  src ="/images/provider_logos/figo.png" alt="Figo">
+    </div>
+    </div>                </div>
+
+    <div class="compare_provider_btn_container">
+        <button  id="compare_provider_btn" class="btn btn-primary">Compare</button>
+    </div>
+            
+        <div class="progress-btns-container">
+            <div class="row justify-content-between row-progress-btns">
+                <div class="col-auto">
+                    <div class="back-buttons-block">
+                        <span id="back_text">You & Your Pet</span>
+                        <button type="button" class="left-action-button clickable-link progress_back_btn">Go&nbsp;Back</button>
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <button type="button" class="btn right-action-button clickable-link progress_next_btn">Compare Quote(s)</button>
+                </div>
+            </div>
+        </div>
+
+            
+</div><!-- .white-content -->
+    </div>
+
+    <div id = "quote_loading_results" class = "patterned-background-content" style = "display:none;">
+        <div class="spinner-border" id="spinner_border" role="status"><span class="sr-only">Loading...</span></div>
+    </div>
+
+    <div id = "quote-details" style = "display:none;">
+        <div class="quote-results">
+        <div class="white-content">
+
+        <h2 class="mobile-hidden" ><span id="pet_name_quote_results">Dekota</span>'s Results</h2>
+        <h3 class="h2-block-mobile" >Based on your answers, here is what we found.</h3>
+
+        <div class = "mobile-quote-results" id="mobile_quote_details_container">
+        </div>
+
+        <div class = "fullsize-quote-results">
+            <table>
+                <thead>
+                <tr>
+                    <th class="header-primary" >Providers</th>
+                    <th >Quote</th>
+                    <th >Deductible</th>
+                    <th >Reimbursement</th>
+                    <th >Annual Limits</th>
+                    <th style="background-color:white">
+                        <span class="sr-only">Buy Now Link</span>
+                    </th>
+                </tr>
+                </thead>
+                <tbody id="quote_details_container">
+                </tbody>
+            </table>
+        </div>
+
+        <div class="progress-btns-container">
+            <div class="row justify-content-center row-progress-btns">
+                <div class="col-auto">
+                    <div class="back-buttons-block">
+                        <span id="back_text">Select Providers</span>
+                        <button type="button" class="left-action-button clickable-link progress_back_btn">Go&nbsp;Back</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+    </div>
+
+    <div id="quote-details-ca" style="display: none;">
+        <div class="patterned-background-content">
+
+    <div class="quote-results">
+        <div>
+            <span class="icon-success">
+                <i class="fas fa-check"></i>
+            </span>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <p class="h1">Thank you, we've requested quotes from the following providers:</p>
+            </div>
+        </div>
+        <div class="quote-results-providers">
+            <div class="provider-logo">
+                <img src="/images/provider_logos/petplan_ca_cropped.png" alt="Petplan CA">
+            </div>
+            <div class="provider-logo">
+                <img src="/images/provider_logos/pets_plus_us_ca_cropped.png" alt="Pets Plus Us CA">
+            </div>
+        </div>
+        <div class="quote-results-errors">
+            <p><i class="fas fa-times"></i> Could not create a quote for Pets Plus Us.</p>
+        </div>
+
+        <div class="progress-btns-container">
+            <div class="row justify-content-center row-progress-btns">
+                <div class="col-auto">
+                    <div class="back-buttons-block">
+                        <span id="back_text">Select Providers</span>
+                        <button type="button" class="left-action-button clickable-link progress_back_btn">Go&nbsp;Back</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+    </div>
+</div>
+
+<div class = "progress-section">
+    <div class="light-grey-content">
+    <div class="row no-padding">
+        <div class="col-5 col-lg-2 col-xlg-4 no-padding">
+        </div>
+
+        <div role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" class="col-8 col-lg-8 col-xlg-4 progress-meter">
+            <div class="progress-contents">
+                <div class="horizontal-bar"></div>
+                <div class="progress-contents-inner">
+                    <button class="active-icon icon-dog"><br> YOUR PET</button>
+                    <button class="icon-providers"><br>PROVIDERS</button>
+                    <button class="icon-search"><br>QUOTE(S)</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-5 col-lg-2 col-xlg-4 no-padding">
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="modal fade" id="see-more-modal" tabindex="-1" role="dialog" aria-labelledby="see-more-modal-title" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="sr-only" id="see-more-modal-title">More About <span class="provider-name">Provider</span></h1>
+                <button type="button" class="btn btn-close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true" class="icon-cancel"></span>
+                </button>
+            </div><!-- .modal-header -->
+
+            <div class="modal-body">
+
+                
+                <div class="pii-table" data-provider="hartville">
+                    <div class="pii-thead">
+                        <div class="pii-tr">
+                            <div class="pii-th" aria-hidden="true">Coverage Options</div>
+                            <div class="pii-th">
+                                <img src="/images/provider_logos/hartville.png" alt="Coverage Options for Hartville">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pii-tbody">
+
+                        
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Deductible Period for Hartville:</span>
+                                            Annual Deductible
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Wellness Coverage for Hartville:</span>
+                                            Wellness Coverage can be added for an additional premium
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                                                                                                                </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Illness and Accident Waiting Period for Hartville:</span>
+                                            Illness and Accident Waiting Period - 14 days
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Bilateral Knee Exclusion for Hartville:</span>
+                                            Bilateral Knee exclusion if pet had a ligament or knee condition prior to enrollment in either or both knees
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                    </div>
+                </div>
+
+                
+                <div class="pii-table" data-provider="pets_best">
+                    <div class="pii-thead">
+                        <div class="pii-tr">
+                            <div class="pii-th" aria-hidden="true">Coverage Options</div>
+                            <div class="pii-th">
+                                <img src="/images/provider_logos/pets_best.png" alt="Coverage Options for Pets Best">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pii-tbody">
+
+                        
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Deductible Period for Pets Best:</span>
+                                            Annual Deductible
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Illness Waiting Period for Pets Best:</span>
+                                            Illness Waiting Period - 14 days
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Knee - Cruciate Damage/Tear Waiting Period for Pets Best:</span>
+                                            Knee - Cruciate Damage/Tear Waiting Period – 6 months
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Wellness Coverage for Pets Best:</span>
+                                            Wellness Coverage can be added for an additional premium
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Additional Fee for Pets Best:</span>
+                                            $2.00 monthly transaction fee will be added
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                                                                                                                </div>
+                                    </div>
+                                </div>
+                                                    
+                    </div>
+                </div>
+
+                
+                <div class="pii-table" data-provider="aspca">
+                    <div class="pii-thead">
+                        <div class="pii-tr">
+                            <div class="pii-th" aria-hidden="true">Coverage Options</div>
+                            <div class="pii-th">
+                                <img src="/images/provider_logos/aspca.png" alt="Coverage Options for ASPCA">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pii-tbody">
+
+                        
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Deductible Period for ASPCA:</span>
+                                            Annual Deductible
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Wellness Coverage for ASPCA:</span>
+                                            Wellness Coverage can be added for an additional premium
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                                                                                                                </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Illness and Accident Waiting Period for ASPCA:</span>
+                                            Illness and Accident Waiting Period - 14 days
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Bilateral Knee Exclusion for ASPCA:</span>
+                                            Bilateral Knee exclusion if pet had a ligament or knee condition prior to enrollment in either or both knees
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                    </div>
+                </div>
+
+                
+                <div class="pii-table" data-provider="healthy_paws">
+                    <div class="pii-thead">
+                        <div class="pii-tr">
+                            <div class="pii-th" aria-hidden="true">Coverage Options</div>
+                            <div class="pii-th">
+                                <img src="/images/provider_logos/healthy_paws.png" alt="Coverage Options for Healthy Paws">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pii-tbody">
+
+                        
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Deductible Period for Healthy Paws:</span>
+                                            Annual Deductible
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Illness Waiting Period for Healthy Paws:</span>
+                                            Illness Waiting Period - 15 days
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Knee - Cruciate Damage/Tear Waiting Period for Healthy Paws:</span>
+                                            Knee - Cruciate Damage/Tear Waiting Period - 15 days
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Wellness Coverage for Healthy Paws:</span>
+                                            No Wellness Coverage
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                                                                                                                </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Exam Fees for Healthy Paws:</span>
+                                            Exam Fees not Covered
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Hip Dysplasia Waiting Period for Healthy Paws:</span>
+                                            Hip Dysplasia Waiting Period - 12 months
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                    </div>
+                </div>
+
+                
+                <div class="pii-table" data-provider="figo">
+                    <div class="pii-thead">
+                        <div class="pii-tr">
+                            <div class="pii-th" aria-hidden="true">Coverage Options</div>
+                            <div class="pii-th">
+                                <img src="/images/provider_logos/figo.png" alt="Coverage Options for Figo">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pii-tbody">
+
+                        
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Deductible Period for Figo:</span>
+                                            Annual Deductible
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Illness Waiting Period for Figo:</span>
+                                            Illness Waiting Period - 14 days
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Knee - Cruciate Damage/Tear Waiting Period for Figo:</span>
+                                            Knee – Cruciate Damage/Tear Waiting Period – 6 months
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Wellness Coverage for Figo:</span>
+                                            No Wellness Coverage
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                                                                                                                </div>
+                                    </div>
+                                </div>
+                                                    
+                                                            <div class="pii-tr">
+                                    <div class="pii-td">
+                                        <div class="td-content">
+                                                                                        <span class="sr-only">Plan Details Exam Fees for Figo:</span>
+                                            Exam Fee Coverage is Optional For Additional Fee
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    
+                                                    
+                                                    
+                                                    
+                    </div>
+                </div>
+
+                                                    <p class="see-policy-document">For other details - see the Policy Document</p>
+                            </div><!-- .modal-body -->
+        </div><!-- .modal-content -->
+    </div><!-- .modal-dialog -->
+</div><!-- .modal -->
+<div class="modal" id="hospital-modal" tabindex="-1" role="dialog" aria-labelledby="hospital-modal-title" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 id="hospital-modal-title">Veterinary clinics</h1>
+                <button type="button" class="btn btn-close" data-dismiss="modal" aria-label="Close" id="hospital-modal-dismiss">
+                    <span aria-hidden="true" class="icon-cancel"></span>
+                </button>
+            </div><!-- .modal-header -->
+
+            <div class="modal-body">
+                <form name="underwriter_form" id="underwriter_form">
+                    <input type="hidden" name="_token" value="WcK44JugwK1u0RF6G3CZLQQAFmv9cUonokTq0wro">                    <div id="hospital_select_body">
+                        <div class="row">
+                            <div id="hospital_select_error" class="hospital_select_error">
+                            </div>
+                        </div>
+                        <div id="underwriter">
+                        </div>
+                        <div class="row">
+                            <div class="col-12 col-hospitals-field">
+                                <label for="hospitals">Clinics  <span class = "nonjs-simple-tooltip">*</span></label><br>
+                                <select placeholder="Clinic" required class="form-control" name="hospitals" id="hospitals" aria-describedby="hospitals_error">
+                                </select>
+                                <div class="invalid-feedback" id="hospitals_error">You must select a veterinary clinic.</div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary save hospital-modal-select-btn" id="hospital_modal_select_btn">Select</button>
+                    </div>
+                    <input type="hidden" name="modal_provider_name" id="modal_provider_name" value="">
+                </form>
+            </div><!-- .modal-body -->
+        </div><!-- .modal-content -->
+    </div><!-- .modal-dialog -->
+</div><!-- .modal -->
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.js"></script>
+    <script src="/js/app.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/selectWoo.full.min.js"></script>
+    <script src="/js/iframeResizer.contentWindow.js"></script>
+    <script>
+        window.iFrameResizer = {
+            targetOrigin: '*',
+            onMessage: function (message) {
+                message = JSON.parse(message);
+                $(document).trigger('iframeResizerMessage', [message]);
+            }
+        }
+    </script>
+        <script>
+        window.breeds_url = "/breeds_.json";
+        window.country_code = "US";
+        window.provider_meta = [{"name":"Pets Best","id":3,"title":"pets_best","logo_src":"\/images\/provider_logos\/pets_best.png"},{"name":"Hartville","id":1,"title":"hartville","logo_src":"\/images\/provider_logos\/hartville.png"},{"name":"ASPCA","id":4,"title":"aspca","logo_src":"\/images\/provider_logos\/aspca.png"},{"name":"Healthy Paws","id":5,"title":"healthy_paws","logo_src":"\/images\/provider_logos\/healthy_paws.png"},{"name":"Figo","id":7,"title":"figo","logo_src":"\/images\/provider_logos\/figo.png"},{"name":"PetsPlusUs","id":14,"title":"pets_plus_us_ca","logo_src":"\/images\/provider_logos\/pets_plus_us_ca.png"},{"name":"Prudent Pet","id":20,"title":"prudent_pet","logo_src":"\/images\/provider_logos\/prudent_pet.png"},{"name":"Spot","id":28,"title":"spot","logo_src":"\/images\/provider_logos\/spot.png"},{"name":"Pumpkin","id":33,"title":"pumpkin","logo_src":"\/images\/provider_logos\/pumpkin.png"},{"name":"Lemonade","id":37,"title":"lemonade","logo_src":"\/images\/provider_logos\/lemonade.png"},{"name":"Kanguro","id":38,"title":"kanguro","logo_src":"\/images\/provider_logos\/kanguro.png"}];
+        window.retrieve_progress = 0;
+        if(retrieve_progress === 1) {
+            window.saved_progress = undefined;
+        }
+    </script>
+    <script src="/js/quotes.js?version=0.5"></script>
+<script>
+    ll_script.showPrivacyPopup = function () {
+        $("#privacy_overlay").fadeIn();
+
+        setTimeout(
+            function(){
+                $("#privacy_content").slideDown();
+            },
+            400
+        );
+
+        $("#accept_privacy_policy_btn").on('click', function(){
+            ll_script.hidePrivacyPopup();
+            localStorage.setItem("user_has_accepted_privacy_policy", "true");
+        });
+    }
+
+    ll_script.hidePrivacyPopup = function () {
+        $("#privacy_content").slideUp();
+
+        setTimeout(
+            function(){
+                $("#privacy_overlay").fadeOut();
+            },
+            400
+        );
+    }
+</script>
+
+</body>
+</html>

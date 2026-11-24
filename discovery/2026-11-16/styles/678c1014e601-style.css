@@ -1,0 +1,29 @@
+
+/****************************************************************
+  Promotion Widget on the home page
+ **************************************************************** */
+.promotion-widget-carousel .owl-nav {display:none;}
+.promotion-widget-carousel .owl-dots{margin-top: -15px;}
+.promotion-widget-carousel .owl-stage-outer{margin-bottom: 2rem;padding-left: 5px;margin-right: -17px;}
+.promotion-widget-carousel .owl-stage img{ display: block; margin-bottom:0 !important; object-fit: cover; height:65% !important;}
+.promotion-widget-carousel .owl-stage{margin-left: 5px;margin-right: 5px;}
+.promotion-widget-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {height: 30px;width: 30px;border-radius: 50%;background-color: rgba(255,255,255, 0.5);}
+.overlay-title{text-align:center;}
+.owl-item{background-color: #fff;webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);max-width: 100%;margin: 5px 0;overflow: hidden;}
+.promotion-widget-carousel .owl-stage{display: flex;}
+
+/****************************************************************
+  Promotion Listing page
+**************************************************************** */
+.promotion {background-color: #fff;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);display: flex;max-width: 100%;margin: 30px 0;overflow: hidden;}
+.promotion-preview{max-width: 40rem;}
+.promotion-preview img{margin-bottom: -8px !important; width:40rem;}
+.promotion-info {padding: 20px 20px; position: relative;width: 100%; text-align:center;}
+.promotion-title{ text-align: center;}
+.promotion-preview img{margin-bottom: -8px !important; width:40rem;}
+
+@media only screen and (max-width: 999px) and (min-width: 1px) {
+    .promotion{display:block;}
+    .promotion .promotion-preview{min-width: 100%;}
+    .promotion .promotion-info{min-width: 100%;}
+}

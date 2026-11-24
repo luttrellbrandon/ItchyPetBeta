@@ -1,0 +1,30 @@
+{
+  "page_responses": 120,
+  "nonempty_pages": 104,
+  "empty_pages": [
+    "https://itchypetvet.com/pet-health-resources/news-2/page/2/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/3/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/4/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/5/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/6/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/7/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/8/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/9/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/10/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/11/",
+    "https://itchypetvet.com/pet-health-resources/news-2/page/12/",
+    "https://itchypetvet.com/faq-category/hospitalfaq/page/2/",
+    "https://itchypetvet.com/faq-category/veterinary-health-care/page/2/",
+    "https://itchypetvet.com/faq-category/veterinary-health-care/page/3/",
+    "https://itchypetvet.com/faq-category/veterinary-health-care/page/4/",
+    "https://itchypetvet.com/faq-category/veterinary-health-care/page/5/"
+  ],
+  "assets": {
+    "captured": 200,
+    "request_failed": 4,
+    "empty_response": 234
+  },
+  "images": 84,
+  "pdfs": 6,
+  "downloaded_bytes": 18831834
+}
