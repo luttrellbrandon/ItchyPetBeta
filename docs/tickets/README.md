@@ -52,7 +52,7 @@ Written November 23, 2026 from [PLAN.md](../PLAN.md), [DISCOVERY.md](../DISCOVER
 | | [T-041 Prescription request form](T-041-prescription-form.md) | T-040 | Main office name: Maitland or Altamonte |
 | | [T-042 Skin allergy questionnaire](T-042-allergy-questionnaire.md) | T-040 | — |
 | | [T-043 Live form delivery](T-043-live-form-delivery.md) | T-041, T-042 | Receiving inbox; sign-off on handling client data |
-| 4 Launch | [T-050 Analytics](T-050-analytics.md) | T-012 | Matomo access, if its history matters |
+| 4 Launch | [T-050 Analytics](T-050-analytics.md) | T-012 | Open item: click-event service; Matomo history export |
 | | [T-051 Editor handoff](T-051-editor-handoff.md) | stage 1–2 tickets | Editor's name and email |
 | | [T-052 Launch readiness audit](T-052-launch-readiness.md) | all stage 0–3 tickets | Clinical content and photo-use sign-off |
 | | [T-053 Domain cutover and rollback](T-053-cutover.md) | T-052 | DNS change at the clinic's registrar |

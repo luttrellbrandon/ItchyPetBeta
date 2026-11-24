@@ -84,7 +84,7 @@ Recommendation pending provider decision: Cloudflare for baseline; choose one ev
 
 - Sanity plan limits (free-tier quotas, asset storage), preview integration, account ownership and recovery.
 - Banner dismissal behavior; settle in component design.
-- Analytics provider for custom clicks, account/report ownership, reporting cadence, existing Matomo access.
+- Click-event analytics service (candidates: Umami Cloud, Plausible, Fathom, Matomo Cloud, GA4), account/report ownership, reporting cadence, and export of existing Matomo history. Decided November 23, 2026: T-050 builds the event hooks and the adapter now, and the adapter does nothing until a service is chosen.
 - Exact treatment of empty legacy routes and duplicated paths; destination mapping requires content reconciliation.
 - Original media access, clinical content review, authoritative location details, and the clinic inbox that receives form submissions.
 - No date, budget, hosting account, domain cutover access, or release commitment has been supplied.

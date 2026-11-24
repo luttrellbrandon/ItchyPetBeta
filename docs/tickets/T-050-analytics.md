@@ -14,12 +14,15 @@ Measure page popularity, traffic sources, devices and performance, and count cli
   - `phone_click`, `directions_click`
   - `handout_download`, `promotion_cta_click`
   - parameters: page path, where on the page the control is, location code, content ID
-- Choosing a provider for click events is still open in PLAN.md. Before building this part, decide between GA4 and keeping Matomo (check whether the clinic can access Matomo site 17157 and export its history). Until decided, the adapter does nothing, and the event hooks already in the code stay inactive.
+- Build the adapter and wire every event hook now (decided November 23, 2026). Which service receives click events is an **open item** (PLAN.md). Until one is chosen, the adapter does nothing: no network requests and no third-party scripts. In development builds, it writes each event to the console so the hooks can be tested.
+- Candidate services, to choose from later: Umami Cloud, Plausible, Fathom, Matomo Cloud, GA4. Cookieless options need no consent banner. If GA4 is chosen, add a cookie consent banner whose default declines analytics.
 - Never send form values, search terms, query strings or anything that identifies an owner or pet.
-- If GA4 is chosen, add a cookie consent banner whose default declines analytics.
+- Separately, ask the clinic or ProSites whether the existing Matomo history (site 17157) can be exported before ProSites is cancelled (T-053).
 
 ## Acceptance criteria
 
 - Cloudflare Web Analytics shows page views on the preview or production domain.
-- If an event provider is chosen, each event shows up in its debug view once per click.
+- Every listed event fires once per click with the right parameters, confirmed by unit or Playwright tests against the adapter.
+- With no service configured, production makes no analytics requests besides Cloudflare Web Analytics.
 - A test confirms no event fires from preview forms.
+- Connecting a service later changes only the adapter file, plus its script and configuration.
