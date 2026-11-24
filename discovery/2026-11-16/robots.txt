@@ -1,0 +1,58 @@
+# Allow google, bing, msn, yahoo, amazon
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google-Mobile-Apps
+User-agent: AdsBot-Google-Canada
+User-agent: Googlebot-Image
+User-agent: Google-Extended
+User-agent: Mediapartners-Google
+User-agent: adsbot
+User-agent: slurp
+User-agent: yandex
+User-agent: twitterbot
+User-agent: baiduspider
+User-agent: bingbot
+User-agent: msnbot
+User-agent: Yahoo
+User-agent: ia_archiver
+User-agent: RavenCrawler
+User-agent: Amazonbot
+User-agent: facebookexternalhit
+User-agent: facebookexternalhit/1.1
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+User-agent: LinkedInBot
+User-agent: LinkedInBot/1.0
+User-agent: LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com)
+User-agent: SemrushBot
+User-agent: SiteAuditBot
+User-agent: Screaming Frog SEO Spider
+User-agent: Perplexity-User
+User-agent: Operator
+User-agent: OAI-SearchBot
+User-agent: Claude-SearchBot
+User-agent: ChatGPT-User
+User-agent: TeamSupport-Bot/1.0 (+https://www.teamsupport.com/bot)
+User-agent: AhrefsBot
+User-agent: AhrefsSiteAudit
+User-agent: Applebot
+User-agent: rogerbot # Moz
+User-agent: dotbot # Moz
+User-agent: ps-seo-tech-review
+Disallow: /~*
+Disallow: /*?*
+Disallow:
+Allow: /*?utm_*
+Allow: /*?gad_*
+Allow: /blog.php?id=*
+Allow: /blog.php?view=all
+Allow: /blog/?id=*
+Allow: /blog/?view=all
+Allow: /archive.php?view=all
+Allow: /archive.php?archive=*
+Crawl-delay: 5
+
+User-agent: * # Disallow everyone else
+Disallow: /
+
+Sitemap: https://itchypetvet.com/sitemap.xml
